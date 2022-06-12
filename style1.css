@@ -1,0 +1,41 @@
+.inner{
+    height: 600px;
+    background: url('https://www.eatthis.com/wp-content/uploads/sites/4/2020/10/fast-food.jpg?quality=82&strip=all');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.sect{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
+.containers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+.imgs{
+    max-width: 150px;
+    min-height: 150px;
+    padding: 10px 10px;
+    border: 2px solid red;
+    
+}
+.cards{
+    margin: 0px 5px;
+    border-radius: 20px;
+    background-color: #cabeca;
+    
+    
+}
+.bold{
+    font-weight: bold;
+}
+
