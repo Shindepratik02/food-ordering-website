@@ -1,0 +1,64 @@
+.inner{
+    height: 600px;
+    /* background: url('https://www.eatthis.com/wp-content/uploads/sites/4/2020/10/fast-food.jpg?quality=82&strip=all'); */
+    background: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.sect{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    
+}
+.containers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+.imgs{
+    max-width: 150px;
+    min-height: 150px;
+    padding: 10px 10px;
+    
+    
+    
+}
+.cards{
+    margin: 0px 5px;
+    border-radius: 20px;
+    /* background-color: #cabeca; */
+    background-color: #a7adb6;
+    
+}
+.bold{
+    font-weight: bold;
+}
+.inside{
+    height: 300px;
+    border: 2px solid black;
+    
+}
+.category-img{
+    min-width: 333px;
+    min-height: 250px;
+}
+
+.tbl{
+    margin-top: 10px;
+}
+body{
+    /* background-color: rgb(201, 192, 192); */
+    background: url('https://zeevector.com/wp-content/uploads/Background/Blue-Abstract-Gradient-Background-with-top-ribbons.png') no-repeat ;
+    /* background: url('/food-order/images/istockphoto-895933506-170667a.jpg'); */
+    background-size: cover;
+   
+}
+
